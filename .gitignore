@@ -29,6 +29,8 @@ target/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
+!**src/main/java/org/example/SQL/
+
 !**/src/main/**/SQL/
 !**/src/test/**/build/
 
